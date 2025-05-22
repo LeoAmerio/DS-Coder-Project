@@ -31,3 +31,7 @@ pip install notebook
 ```py
 jupyter notebook --no-browser --port 8888
 ```
+O
+```py
+python -m jupyterlab --no-browser --port 8888
+```
